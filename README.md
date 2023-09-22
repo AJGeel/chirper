@@ -32,9 +32,31 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Getting Started
 
 `php artisan serve`
+
 `npm run dev`
+
 `~> localhost:8000`
 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Next Steps
+
+Sourced from https://bootcamp.laravel.com/conclusion.
+
+Here are a few of features that can be considered for future development of Chirper:
+
+-   [Automated Testing](https://laravel.com/docs/10.x/testing)
+-   [Broadcasting (Web Sockets)](https://vapor.laravel.com/app/)
+-   [Form Request Validation](https://laravel.com/docs/validation#form-request-validation)
+-   [Queues](https://laravel.com/docs/queues)
+-   [Task Scheduling](https://laravel.com/docs/scheduling)
+-   [File Storage](https://laravel.com/docs/filesystem)
+-   [HTTP Client](https://laravel.com/docs/http-client)
+-   [Database Seeding](https://laravel.com/docs/seeding)
+-   [Collections](https://laravel.com/docs/collections)
+-   [Subscription Billing](https://spark.laravel.com/?ref=bootcamp.laravel.com)
+-   [Administration Panels](https://nova.laravel.com/?ref=bootcamp.laravel.com)
+-   [Server Management](https://forge.laravel.com/?ref=bootcamp.laravel.com)
+-   [Serverless Deployment](https://vapor.laravel.com/?ref=bootcamp.laravel.com)
